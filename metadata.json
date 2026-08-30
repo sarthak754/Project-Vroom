@@ -1,0 +1,6 @@
+{
+  "name": "vroom",
+  "description": "Zero-knowledge ephemeral chat application with client-side end-to-end encryption and instant data self-destruction.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
